@@ -1,11 +1,16 @@
 # Handy CLI commands
 This repo is to keep a list of handy terminal commands.
 
-**Operating systems**
+**Windows Command Line**
 
 - [Windows System](win-system.md)
 - [Windows Networking](win-network.md)
-- [Windows PowerShell](ps-windows.md)
+
+**PowerShell**
+
+- [PowerShell](ps.md)
+- [PowerShell (Windows)](ps-windows.md)
+- [PowerShell (Azure)](ps-azure.md)
 
 **Dev tools**
 
