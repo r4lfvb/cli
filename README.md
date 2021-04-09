@@ -5,6 +5,7 @@ This repo is to keep a list of handy terminal commands.
 
 - [Windows System](win-system.md)
 - [Windows Networking](win-network.md)
+- [Windows PowerShell](ps-windows.md)
 
 **Dev tools**
 
