@@ -1,11 +1,5 @@
 # PowerShell (Windows)
 
-**Get the current PowerShell version number**
-
-```PowerShell
-$PSVersionTable.PSVersion
-```
-
 **Get UWP apps installed on the system**
     
 ```PowerShell
