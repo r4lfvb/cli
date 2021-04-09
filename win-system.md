@@ -2,8 +2,12 @@
 
 **get basic system info**
 
-    wmic baseboard get manufacturer, product, serialnumber
+```cmd
+wmic baseboard get manufacturer, product, serialnumber
+```
 
 **get disk status**
 
-    wmic diskdrive get status
+```cmd
+wmic diskdrive get status
+```
