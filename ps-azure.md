@@ -2,7 +2,7 @@
 
 **Register resource providers**
 
-```ps
+```PowerShell
 Select-AzureRmSubscription -SubscriptionName “”
 
 # get available providers that are not registered
