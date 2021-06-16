@@ -1,5 +1,11 @@
 # PowerShell (Windows)
 
+**Show the PATH environment variable**
+
+```PowerShell
+$Env:Path
+```
+
 **Get UWP apps installed on the system**
     
 ```PowerShell
