@@ -6,6 +6,12 @@
 wmic baseboard get manufacturer, product, serialnumber
 ```
 
+**get RAM info**
+
+```cmd
+wmic memorychip get devicelocator, manufacturer
+```
+
 **get disk status**
 
 ```cmd
