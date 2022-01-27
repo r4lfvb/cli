@@ -12,6 +12,10 @@ wmic baseboard get manufacturer, product, serialnumber
 wmic memorychip get devicelocator, manufacturer
 ```
 
+```cmd
+systeminfo | findstr /C:"Total Physical Memory"
+```
+
 **get disk status**
 
 ```cmd
