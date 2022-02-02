@@ -23,3 +23,4 @@ Note the path to the _SqlLocalDB.exe_ may be different depending on the version 
 ```cmd
   "C:\Program Files\Microsoft SQL Server\150\Tools\Binn\SqlLocalDB.exe" stop <InstanceNameHere>
 ```
+See the [full reference](https://docs.microsoft.com/en-us/sql/tools/sqllocaldb-utility?view=sql-server-ver15) on using the _SqlLocalDb_ util.
