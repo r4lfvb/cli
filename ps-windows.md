@@ -1,9 +1,20 @@
 # PowerShell (Windows)
 
+**Create a new GUID**
+
+```PowerShell
+[guid]::newguid()
+```
+
 **Show the PATH environment variable**
 
 ```PowerShell
 $Env:Path
+```
+
+**Reload the PATH in the current session**
+```PowerShell
+$env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
 ```
 
 **Get UWP apps installed on the system**
